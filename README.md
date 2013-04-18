@@ -1,12 +1,12 @@
-Tubster Color Theme (Modified) 
+Tubster Color Scheme (Modified) 
 ===================
 
 
-Further modified version of [Aaron Holbrook](https://github.com/AaronHolbrook's) changes to the Tubster theme.
+Further modified version of [Aaron Holbrook](https://github.com/AaronHolbrook's) changes to the Tubster Color Scheme.
 
 
 
-Here is a screen shot of the theme (click image for full size): 
+Here is a screen shot of the moded color scheme (click image for full size): 
 
 
 
