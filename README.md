@@ -14,7 +14,6 @@ Here is a screen shot of the moded color scheme (click image for full size):
 
 [http://i.imgur.com/282AyRp.png](http://i.imgur.com/282AyRp.png") (full size image)
 
--
 
 ----------
 
