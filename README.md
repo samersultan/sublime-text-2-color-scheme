@@ -43,4 +43,4 @@ prefences -> color scheme -> Tubster-custom `
 
 ----
 
-Port to Sublime Text 3 coming soon. 
+**Port to Sublime Text 3 coming soon.** 
