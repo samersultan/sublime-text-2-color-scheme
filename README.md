@@ -40,3 +40,7 @@ Installation instructions:
 prefences -> color scheme -> Tubster-custom `
 
 ![](http://i.imgur.com/OxRkqGVl.jpg)
+
+----
+
+Port to Sublime Text 3 coming soon. 
