@@ -41,6 +41,9 @@ prefences -> color scheme -> Tubster-custom `
 
 ![](http://i.imgur.com/OxRkqGVl.jpg)
 
+If you have any questions, or comments please reach out to me on Twitter <a href="https://twitter.com/sultansolutions"> @SultanSolutions </a> 
+
+
 ----
 
 **Port to Sublime Text 3 coming soon.** 
