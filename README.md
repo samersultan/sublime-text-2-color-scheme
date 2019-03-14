@@ -2,11 +2,13 @@ Tubster Color Scheme (Modified)
 ===================
 
 
-Further modified version of [Aaron Holbrook](https://github.com/AaronHolbrook's) changes to the Tubster Color Scheme.
+Updated version for Sublime Text 3 can be found here: https://github.com/samersultan/sublime-text-3-color-scheme
+
+My modified version of the tubster color scheme for Sublime Text 2
 
 
 
-Here is a screen shot of the moded color scheme (click image for full size): 
+*screen shot of the moded color scheme (click image for full size):*
 
 
 
