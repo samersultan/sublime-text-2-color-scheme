@@ -1,9 +1,6 @@
 Tubster Color Scheme (Modified) 
 ===================
 
-
-Updated version for Sublime Text 3 can be found here: https://github.com/samersultan/sublime-text-3-color-scheme
-
 My modified version of the tubster color scheme for Sublime Text 2
 
 
@@ -27,7 +24,8 @@ Installation instructions:
 1) Place the Tubster-custom.tmTheme file in this folder
 
 `
-\AppData\Roaming\Sublime Text 2\Packages\Color Scheme - Default`
+%USERPROFILE%\Appdata\Roaming\Sublime Text 2\Packages\Color Scheme - Default
+`
 
 
 
@@ -48,4 +46,4 @@ If you have any questions, or comments please reach out to me on Twitter <a href
 
 ----
 
-**Port to Sublime Text 3 coming soon.** 
+Updated version for Sublime Text 3 can be found here: https://github.com/samersultan/sublime-text-3-color-scheme
