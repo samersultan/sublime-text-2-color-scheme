@@ -41,9 +41,9 @@ prefences -> color scheme -> Tubster-custom `
 
 ![](http://i.imgur.com/OxRkqGVl.jpg)
 
-If you have any questions, or comments please reach out to me on Twitter <a href="https://twitter.com/sultansolutions"> @SultanSolutions </a> 
+If you have any questions, or comments please reach out to me on Twitter <a href="https://twitter.com/sultansolutions"> @SultanSolutions 
 
+Updated version for Sublime Text 3 can be found here: https://github.com/samersultan/sublime-text-3-color-scheme
 
 ----
 
-Updated version for Sublime Text 3 can be found here: https://github.com/samersultan/sublime-text-3-color-scheme
