@@ -37,7 +37,7 @@ Installation instructions:
 
 3) Select the color scheme from 
 `
-prefences -> color scheme -> Tubster-custom `
+preferences -> color scheme -> Tubster-custom `
 
 ![](http://i.imgur.com/OxRkqGVl.jpg)
 
