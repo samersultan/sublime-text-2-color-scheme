@@ -1,5 +1,6 @@
-Tubster Color Scheme (Modified) 
-===================
+# Tubster Color Scheme (Modified) - Sublime Text 2 
+
+**Updated version for Sublime Text 3 can be found here: https://github.com/samersultan/sublime-text-3-color-scheme**
 
 My modified version of the tubster color scheme for Sublime Text 2
 
@@ -47,5 +48,5 @@ If you have any questions, or comments please reach out to me on Twitter <a href
   </a>
 
 
-**Updated version for Sublime Text 3 can be found here: https://github.com/samersultan/sublime-text-3-color-scheme**
+
 
